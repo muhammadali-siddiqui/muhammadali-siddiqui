@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, Fellas 👋
 
 I’m Muhammad Ali Siddiqui, a technical content writer based in Karachi, Pakistan. 
 
