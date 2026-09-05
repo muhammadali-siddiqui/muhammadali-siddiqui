@@ -13,7 +13,9 @@ Here is a bit more about what I'm up to:
 🤔 I’m looking for help with: Actively transitioning into a dedicated, remote Technical Writing role. 
 💬 Ask me about: SEO content pipelines, E-E-A-T optimization, and simplifying hardware/software systems for everyday users.  
 
-📫 How to reach me: You can email me at masid.writer@gmail.com or connect on LinkedIn(https://linkedin.com/in/muhammadalisiddiqui-content).  
+📫 How to reach me: You can email me at masid.writer@gmail.com or connect on LinkedIn.  
+
+LinkedIn --> https://linkedin.com/in/muhammadalisiddiqui-content
 
 Fun fact: 
 I hold an MS in Applied Physics, tested sensors for a wearable IoT pet monitor, and spend my offline time cooking or tinkering with technical gadgets!
