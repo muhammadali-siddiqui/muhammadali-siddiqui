@@ -22,9 +22,10 @@ Here is a bit more about what I'm up to:
 
 LinkedIn --> https://linkedin.com/in/muhammadalisiddiqui-content
 
-Fun fact: 
+⚡ Fun fact: 
 I hold an MS in Applied Physics, tested sensors for a wearable IoT pet monitor, and spend my offline time cooking or tinkering with technical gadgets!
-I love table tennis too; let's have a match - the next time we meet.
+
+🏓 I love table tennis too; let's have a match - the next time we meet.
 <!--
 **muhammadali-siddiqui/muhammadali-siddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
