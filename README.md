@@ -1,6 +1,6 @@
 ## Hi, Fellas 👋
 
-I’m Muhammad Ali Siddiqui, a technical content writer based in Karachi, Pakistan. 
+I’m Muhammad Ali Siddiqui, a technical content writer from Pakistan. 
 
 I write content which makes complicated concepts and systems easy to understand.
 
