@@ -10,10 +10,6 @@ Here is a bit more about what I'm up to:
 
 🔭 I’m currently working on: Creating end-user documentation, how-to guides, and tutorials for WordPress plugins as a Content Producer @ Objects.
 
-🌱 I’m currently learning: Docs-as-code frameworks to further bridge the gap between engineering and content.
-
-👯 I’m looking to collaborate on: Open-source software documentation and developer-focused guides.
-
 🤔 I’m looking for help with: Actively transitioning into a dedicated, remote Technical Writing role. 
 
 💬 Ask me about: SEO content pipelines, E-E-A-T optimization, and simplifying hardware/software systems for everyday users.  
